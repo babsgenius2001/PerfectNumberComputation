@@ -1,4 +1,4 @@
-# Perfect Number Computation Application
+# Prefect Number Computation Application
 
 This application validates if a provided number is a perfect number or not. It also fetches a list of perfect numbers within a specified range of numbers. 
 
@@ -36,4 +36,14 @@ If everything went well, you should be able to access the web app here: http://l
 A swagger-ui link to test the functionality of the API after running the application is also available via:
 * http://localhost:8080/swagger-ui/index.html
 
+## Running Tests
 
+There are Unit Tests for the program segment as well as end-to-end tests for the REST API.
+
+  ### Unit Tests
+  
+  Unit Tests are written in JUnit and are located within the GetPerfectNumbersTest & ValidatePerfectNumbersTests classes.
+  
+  ### REST API Tests
+  
+  The REST API tests using MockMvc can be found within the PerfectNumberControllerTest class.
