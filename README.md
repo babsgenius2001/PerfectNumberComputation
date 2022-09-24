@@ -1,4 +1,4 @@
-# Prefect Number Computation Application
+# Perfect Number Computation Application
 
 This application validates if a provided number is a perfect number or not. It also fetches a list of perfect numbers within a specified range of numbers. 
 
