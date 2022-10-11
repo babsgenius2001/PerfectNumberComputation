@@ -9,7 +9,7 @@ On top of these 2 functions - ValidatePerfectNumber and GetPerfectNumbers lies a
 All the code required to run this project/application is available in this Git repository. You can either download it as a zip file from Github or run:
 
 ```bash
-$ git clone https://github.com/babsgenius2001/WordlineAssignment.git
+$ git clone https://github.com/babsgenius2001/PerfectNumberComputation.git
 ```
 
 ### Running the application
